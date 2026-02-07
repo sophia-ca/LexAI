@@ -1,0 +1,3 @@
+# LexAI
+LexAI mobile application
+
